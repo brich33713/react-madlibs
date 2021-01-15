@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      Add Commas
+    </h1>
+    <form>
+      <label
+        for="input"
+      >
+        Enter Number:
+      </label>
+      <input
+        data-testid="input"
+        type="text"
+      />
+      <button
+        data-testid="convert"
+      >
+        Convert Number
+      </button>
+    </form>
+    <p
+      data-testid="output"
+    />
+  </div>
+</DocumentFragment>
+`;
